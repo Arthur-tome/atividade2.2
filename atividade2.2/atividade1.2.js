@@ -1,3 +1,5 @@
+//nome:Arthur de Oliveira Tomé
+//Matricula:25114290097
 let frutas = ["Maçã", "Banana", "Laranja", "Pêra", "Uva"];
 console.log("4º elemento:", frutas[3]);
 console.log("Último elemento:", frutas[frutas.length - 1]);
